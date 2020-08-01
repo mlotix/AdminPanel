@@ -1,7 +1,7 @@
 # Admin Panel
 
 Projekt zawiera system logowania, rejestracji, formularz kontaktowy oraz newsletter
-Jest to projekt stworzony w 2017 roku, więc nie jestem pewien co do jakości kodu.
+Jest to projekt stworzony w 2017 roku, jakość kodu jest bardzo niska.
 
 ## Użyte technologie
 
